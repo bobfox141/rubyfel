@@ -12,8 +12,6 @@ class Node
     @index = 0
   end
 
-  
-
   def setValue(v)
     @value = v
   end
